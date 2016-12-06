@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Advertising</string>
+    <string name="content_screen">Content screen</string>
+    <string name="press_to_exit_message">Press again to exit!</string>
+    <string name="content_screen_name">Content</string>
+    <string name="errore_connection">No internet connection</string>
+    <string name="download_message">Download</string>
+    <string name="adv_activity_name">Advertisement</string>
+</resources>
